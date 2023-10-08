@@ -1,0 +1,39 @@
+Here i will write the serial number that i need to practice more
+(1)Easy list :
+1.StrictMode.js
+2.spreadOperator.js
+3.restParameter.js
+4.dynamicFunc.js
+5.varletConst.js
+6.variableScope.js
+8.simpleForLoop.js
+9.ForOfLoop.js
+10.objectBasic.js
+12.DecisionMaking.js
+14.0simpleArray.js
+
+
+(2) need to practice
+11.forInLoop.js
+13.function.js
+14.1de_structringArray.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
